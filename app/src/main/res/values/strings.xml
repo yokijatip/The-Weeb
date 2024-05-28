@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">The Weeb</string>
+    
+    <string name="see_all">See All</string>
+    
+    <string name="hello">Hello, </string>
+
+    <string name="top_anime">Top Anime</string>
+    <string name="top_manga">Top Manga</string>
+
+<!--    About Anime and Manga   -->
+    <string name="episodes">Episodes</string>
+    <string name="genres">Genres</string>
+    <string name="rank">Rank</string>
+    <string name="popularity">Popularity</string>
+    <string name="synopsis">Synopsis</string>
+    <string name="background">Background</string>
+    <string name="season">Season</string>
+    <string name="year">Year</string>
+
+    <string name="top_characters">Top Characters</string>
+
+
+
+
+</resources>
