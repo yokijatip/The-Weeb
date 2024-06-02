@@ -131,6 +131,9 @@ dependencies {
     // Shimmer Effect buat loading content
     implementation("com.facebook.shimmer:shimmer:0.5.0")
 
+    // Circle Image dari Hodenhof
+    implementation("de.hdodenhof:circleimageview:3.1.0")
+
     implementation(libs.androidx.core.ktx)
     implementation(libs.androidx.appcompat)
     implementation(libs.material)
