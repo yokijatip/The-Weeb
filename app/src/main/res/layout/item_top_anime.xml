@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="120dp"
+    android:orientation="vertical"
+    android:layout_gravity="center"
+    android:layout_height="220dp">
+
+    <com.google.android.material.card.MaterialCardView
+        android:layout_width="match_parent"
+        android:layout_height="180dp"
+        android:layout_gravity="center">
+
+        <ImageView
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:scaleType="centerCrop"
+            android:src="@drawable/anime"/>
+
+    </com.google.android.material.card.MaterialCardView>
+
+    <TextView
+        android:layout_marginTop="4dp"
+        android:id="@+id/tv_title_top_anime"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="One Piece : The Final Chapter"
+        android:textSize="11sp"
+        android:maxLines="1"
+        android:ellipsize="end"
+        android:fontFamily="@font/inter_semibold"
+        />
+    
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Adventure"
+        android:fontFamily="@font/inter_medium"
+        android:textSize="10sp"
+        android:textColor="#787878"
+        />
+
+
+
+</LinearLayout>
